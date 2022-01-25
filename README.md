@@ -8,3 +8,4 @@ That will display all employees who make a minimum of 200,000 in salary from the
 Step 1: Drag the index file into the browser to see the result.
 
 ## Future improvements
+In this project further improvements can enhanced by adding new more data about employess and make code easier.
